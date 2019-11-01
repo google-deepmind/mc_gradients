@@ -1,0 +1,7 @@
+absl-py==0.7.1
+dm-sonnet==1.34
+numpy==1.16.4
+scipy==1.3.1
+scikit-learn==0.21
+tensorflow==1.15rc2
+tfp-nightly
