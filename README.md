@@ -31,7 +31,7 @@ To run a test:
 
 ## Colab
 
-You can run the code in the browser using [Colab](https://colab.research.google.com). The experiments from Section 3 can be reproduced using the following link: [Intuitive Analysis of Gradient Estimators](https://colab.research.google.com/github/deepmind/mc_gradients/blob/master/variance_numerical_integration.ipynb)
+You can run the code in the browser using [Colab](https://colab.research.google.com). The experiments from Section 3 can be reproduced using the following link: [Intuitive Analysis of Gradient Estimators](https://colab.research.google.com/github/deepmind/mc_gradients/blob/master/monte_carlo_gradients/variance_numerical_integration.ipynb)
 
 ## Disclaimer
 
