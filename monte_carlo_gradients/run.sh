@@ -17,7 +17,7 @@ source mc_grads_venv/bin/activate
 
 # Required in order to get the right tensorflow
 # version.
-pip install --upgrade pip
-pip install -r monte_carlo_gradients/requirements.txt
+pip3 install --upgrade pip
+pip3 install -r monte_carlo_gradients/requirements.txt
 
 python -m monte_carlo_gradients.main
